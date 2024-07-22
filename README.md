@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Subham!
 - I'm an MCA student with a strong passion for Frontend Development, currently diving deep into React.
 - 🎓 Education: Pursuing a Master's in Computer Applications (MCA)
-- 🌟 Skills: React, JavaScript, HTML, CSS, and a keen eye for UI/UX design
+- 🌟 Skills: React, JavaScript, HTML, CSS, PHP & MySQL and a keen eye for UI/UX design
 - 🚀 Goals: To become a skilled Frontend Developer and build engaging, user-friendly web applications
 - Developing dynamic web applications using ReactExperimenting with new frontend technologies and frameworksBuilding a portfolio of projects to showcase my skills.
 - 💼 Looking for opportunities in Frontend Development
